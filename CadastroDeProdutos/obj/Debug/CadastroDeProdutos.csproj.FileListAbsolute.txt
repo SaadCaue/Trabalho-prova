@@ -1,0 +1,10 @@
+C:\Users\manoc\source\repos\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csproj.AssemblyReference.cache
+C:\Users\manoc\source\repos\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.Form1.resources
+C:\Users\manoc\source\repos\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.Properties.Resources.resources
+C:\Users\manoc\source\repos\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csproj.GenerateResource.cache
+C:\Users\manoc\source\repos\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\manoc\source\repos\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\CadastroDeProdutos.exe.config
+C:\Users\manoc\source\repos\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\CadastroDeProdutos.exe
+C:\Users\manoc\source\repos\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\CadastroDeProdutos.pdb
+C:\Users\manoc\source\repos\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.exe
+C:\Users\manoc\source\repos\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.pdb
